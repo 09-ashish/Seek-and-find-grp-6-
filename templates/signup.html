@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seek And Find/login</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+</head>
+<body>
+    <div class="login-body">
+        <div class="logo"><img src="L1.png"></div>
+        <div class="back-home"><a href="intro"style="text-decoration: none;">Back>home</a></div>
+        <div class="login-sentance"><h2><b><i>Enter your details:</i></b></h2></div>
+        <div class="login-box-r">    
+            <div class="login-slogan"><h2>Register your account.</h2></div>
+            <form class="form-style-r" action="/submit-signup" method="post">
+                <input class="name1" type="name"required placeholder="First Name" name="fname">
+                <br>
+                <input class="name2" type="name"required placeholder="Last Name" name="lname">
+                <br>
+                <input class="mail" type="email"required placeholder="Email" name="email">
+                <br>
+                <input class="pass-signup" type="password"required placeholder="Set Password" name="pass">
+                <br>
+                <a class="Register" href="register.html"><input class="sub-r" type="submit" value="submit" name="submit" ></a>
+                <br>
+                <div class="ftr">
+                <h5>If you already registered </h5>
+                </div>
+                <div class="sign">
+                <a class="sign1" href="login">Login</a>
+                </div>  
+            </form>
+        </div>
+</body>

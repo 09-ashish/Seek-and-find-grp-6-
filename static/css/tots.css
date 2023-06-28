@@ -1,0 +1,82 @@
+.tots-body{
+  background-image: url("/static/images/360_F_286361199_fzZsOpZ3memFzCn889a9TZHMuTTsFrVl.jpg");
+  background-size: cover;
+  height: 1091px;
+  padding-bottom: 1px;
+  width: 150%;
+}
+.back-home{
+  display: inline;
+  line-height: 48px;
+  margin: 0 5px;
+  border: 2px solid black;
+  background:#7a9694;
+  padding: 9px;
+  color: white;
+  text-decoration:none;
+  border-radius: 30px;
+  box-shadow: black;
+  margin-left: 9px;
+}
+.login-bar {
+  display: inline;
+  line-height: 20px;
+  margin: 0 5px;
+  border: 2px solid black;
+  background:#7a9694;
+    padding: 9px;
+  color: white;
+  text-decoration:none;
+  border-radius: 30px;
+  box-shadow: black;
+  margin-left: 5px;
+}
+.contact-body{
+  background-image: url(https://solveout.in/wp-content/uploads/2016/09/bg-9-full.jpg);
+  background-size: cover;
+  height: 1355px;
+  padding-bottom: 1px;
+  width: 150%;
+}
+.about-body{
+  background-image: url(https://solveout.in/wp-content/uploads/2016/09/bg-9-full.jpg);
+  background-size: cover;
+  height: 1355px;
+  padding-bottom: 1px;
+  width: 150%;
+}
+.services-body{
+   background-image: url(https://solveout.in/wp-content/uploads/2016/09/bg-9-full.jpg);
+  background-size: cover;
+  height: 1091px;
+  padding-bottom: 1px;
+  width: 150%;
+}
+.seek-body{
+  background-image: url(https://solveout.in/wp-content/uploads/2016/09/bg-9-full.jpg);
+ background-size: cover;
+ height: 1355px;
+ padding-bottom: 1px;
+ width: 150%;
+}
+.toys-body{
+  background-image: url(https://solveout.in/wp-content/uploads/2016/09/bg-9-full.jpg);
+ background-size: cover;
+ height: 1355px;
+ padding-bottom: 1px;
+ width: 150%;
+}
+.accessories-body{
+  background-image: url(https://solveout.in/wp-content/uploads/2016/09/bg-9-full.jpg);
+ background-size: cover;
+ height: 1355px;
+ padding-bottom: 1px;
+ width: 150%;
+}
+.food-body{
+  background-image: url(https://solveout.in/wp-content/uploads/2016/09/bg-9-full.jpg);
+ background-size: cover;
+ height: 1355px;
+ padding-bottom: 1px;
+ width: 150%;
+}
